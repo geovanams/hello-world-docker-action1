@@ -2,6 +2,8 @@
 
 This action prints "Hello World" or "Hello" + the name of a person to greet to the log.
 
+[![.github/workflows/main.yml](https://github.com/geovanams/hello-world-docker-action1/actions/workflows/main.yml/badge.svg)](https://github.com/geovanams/hello-world-docker-action1/actions/workflows/main.yml)
+
 ## Inputs
 
 ## `who-to-greet`
